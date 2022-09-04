@@ -26,6 +26,7 @@ header{
 }
 
 .logo{
+  border-radius: 25%;
   margin-right: 8px;
   width: 2rem;
 }
@@ -33,7 +34,7 @@ header{
 #site-title{
   font-family: 'IBM Plex Serif', serif;
   font-weight: bold;
-  font-size: 1rem;
+  font-size: 1.2rem;
   letter-spacing: 2.5px;
   color: #fff;
   margin: 0;
@@ -52,5 +53,8 @@ header{
 /* Welcome section */
 
 #welcome{
+}
 
+.welcome-img{
+  width: 100%;
 }
