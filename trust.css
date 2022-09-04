@@ -7,13 +7,12 @@ font-family: 'Noto Sans Buhid', sans-serif;
 
 body{
   font-family: 'Noto Sans Buhid', sans-serif;
-  height: 500px;
 }
 
 header{
   color: #fff;
   display: flex;
-  background-color: #1f71d4;
+  background-color: #0B65C6;
   justify-content: space-between;
   padding: 12px 8px;
 }
@@ -21,7 +20,7 @@ header{
 #site-title{
   font-family: 'IBM Plex Serif', serif;
   font-weight: bold;
-  font-size: 18px;
+  font-size: 25px;
   letter-spacing: 2.5px;
   color: #fff;
   margin: 0;
