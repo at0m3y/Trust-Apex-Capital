@@ -17,10 +17,20 @@ header{
   padding: 12px 8px;
 }
 
+.logo-div{
+  display: flex;
+  flex-direction: row;
+}
+
+.logo{
+  margin-right: 6px;
+  width: 2rem;
+}
+
 #site-title{
   font-family: 'IBM Plex Serif', serif;
   font-weight: bold;
-  font-size: 25px;
+  font-size: 1rem;
   letter-spacing: 2.5px;
   color: #fff;
   margin: 0;
