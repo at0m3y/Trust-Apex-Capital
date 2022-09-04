@@ -1,0 +1,44 @@
+/* Header */
+
+/* Fonts
+font-family: 'IBM Plex Serif', serif;
+font-family: 'Noto Sans Buhid', sans-serif;
+ */
+
+body{
+  font-family: 'Noto Sans Buhid', sans-serif;
+  height: 500px;
+}
+
+header{
+  color: #fff;
+  display: flex;
+  background-color: #1f71d4;
+  justify-content: space-between;
+  padding: 12px 8px;
+}
+
+#site-title{
+  font-family: 'IBM Plex Serif', serif;
+  font-weight: bold;
+  font-size: 18px;
+  letter-spacing: 2.5px;
+  color: #fff;
+  margin: 0;
+}
+
+.hd-mail{
+  font-family: 'Noto Sans Buhid', sans-serif;
+  font-size: 10px;
+  margin-bottom: 0;
+}
+
+.head-div-2{
+  color: #fff;
+}
+
+/* Welcome section */
+
+#welcome{
+  background-image: image();
+}
