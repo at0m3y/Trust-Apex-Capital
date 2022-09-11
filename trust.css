@@ -1,60 +1,32 @@
 /* Header */
 
 /* Fonts
+for headers
 font-family: 'IBM Plex Serif', serif;
+for body
 font-family: 'Noto Sans Buhid', sans-serif;
  */
 
-body{
+ .ft-ibm{
+   font-family: 'IBM Plex Serif', serif;
+}
+
+.ft-noto{
   font-family: 'Noto Sans Buhid', sans-serif;
 }
 
-header{
-  color: #fff;
-  display: flex;
-  background-color: #0b65c6;
-  justify-content: space-between;
-  padding: 15px 15px;
-  border-bottom: 2px solid #999999;
-  z-index: 1;
+/* Nav */
+
+.navbar{
+  background-color:
 }
 
-.logo-div{
-  display: flex;
-  flex-direction: row;
-  align-items: center;
+.tpx-logo{
+  border-radius: 20%;
+  height: 40px;
+  width: 40px;
 }
-
-.logo{
-  border-radius: 25%;
-  margin-right: 8px;
-  width: 2rem;
-}
-
-#site-title{
-  font-family: 'IBM Plex Serif', serif;
+.tpx-logo-txt{
+  font-size: 22px;
   font-weight: bold;
-  font-size: 1.2rem;
-  letter-spacing: 2.5px;
-  color: #fff;
-  margin: 0;
-}
-
-.hd-mail{
-  font-family: 'Noto Sans Buhid', sans-serif;
-  font-size: 10px;
-  margin-bottom: 0;
-}
-
-.head-div-2{
-  color: #fff;
-}
-
-/* Welcome section */
-
-#welcome{
-}
-
-.welcome-img{
-  width: 100%;
 }
